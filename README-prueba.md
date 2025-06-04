@@ -1,4 +1,4 @@
-# Proyecto Northwind PostgreSQL - Modificado
+# Proyecto Northwind PostgreSQL - Modificado version 45
 
 Este repositorio contiene una versión modificada de la base de datos Northwind para PostgreSQL, desarrollada como proyecto de curso con nuevas funcionalidades y mejoras.
 
